@@ -1,0 +1,8 @@
+dotnet watch run
+
+
+
+
+alt+u, alt+i, alt+o - zmiana miedzy oknami
+
+strl + . - menu z inicjalizacja obiektow
